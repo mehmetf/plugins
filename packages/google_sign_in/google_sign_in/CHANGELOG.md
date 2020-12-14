@@ -1,3 +1,7 @@
+## 5.0.0-nullsafety
+
+* Migrate to nnbd.
+
 ## 4.5.7
 
 * Update Flutter SDK constraint.
